@@ -1,4 +1,4 @@
-service: serverless-es6-async-await
+service: serverless-es6-async-await-demo
 
 provider:
   name: aws
